@@ -1,4 +1,4 @@
-# Olá, sou Lucas Justino 🤝
+# Olá, sou Lucas Justino! 🤝
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Justino&show_icons=true&theme=radical)
 
