@@ -20,6 +20,9 @@ Tecnologias em que possuo conhecimentos.
     <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "Python">
     <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt = "R">
     <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt = "MySQL">
+    <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "TypeScript">
+    <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt = "React">
+    <img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt = "Tailwind">
 </div>
 
 
